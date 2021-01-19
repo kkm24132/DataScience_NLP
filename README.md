@@ -7,4 +7,5 @@
 Area           |Description                                     | Target Timeline |
 :--            |:--                                             |:--              |
 Pre-Requisites |<ul> <li>Familiarity with Python Programming</li> <li> Machine Learning Fundamentals </li> <li> Familiarity with Data Science processes and frameworks (CRISP-DM) </li></ul> | Week 1-4
+Pre-Requisites |<ul> <li>Familiarity with Python Programming</li> <li> Machine Learning Fundamentals </li> <li> Familiarity with Data Science processes and frameworks (CRISP-DM) </li></ul> | Week 5-8
 
