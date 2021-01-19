@@ -1,7 +1,7 @@
 ## NLP (Natural Language Processing)
 
-- **Objective**: This repository provides pointers and guidance for fundamentals around NLP (Natural Language Processing) from learning perspective and recommended timeline, content.
-- **Target Audience**: Professional with some basic knowledge and familiarity around Machine Learning, Python/R/SQL programming background.
+- **Objective**: This repository provides pointers and guidance for fundamentals around NLP (Natural Language Processing) from learning perspective and the recommended timeline, content etc.
+- **Target Audience**: Professional with already having basic, working knowledge and familiarity around Machine Learning, Python/R/SQL programming background.
 
 
 Area           |Description                                     | Target Timeline |
