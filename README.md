@@ -13,4 +13,4 @@ Handling Text Processing |<ul> <li>Text pre-processing techniques (Familiarity w
 
 - [Deep Learning for NLP : without Magic](https://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
 - [Stanford NLP](https://nlp.stanford.edu/teaching/)
-- 
+- [BERT, ELMo and GPT2](http://ai.stanford.edu/blog/contextual/) How contextual are Contexualized Word Representations? - from Stanford AI Lab
