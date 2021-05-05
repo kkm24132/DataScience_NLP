@@ -10,7 +10,7 @@
 - [Libraries / packages](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#libraries--packages)
 - [Services](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#services)
 - [Datasets](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#datasets)
-- Video and Online Content references
+- [Video and Online Content references](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#video-and-online-content-references)
 
 
 ## Research Focus and Trends
@@ -46,9 +46,9 @@ Handling Text Processing |<ul> <li>Text pre-processing techniques (Familiarity w
 - Text Embeddings
   - Word Embeddings
     - Thumb Rule: fastText >> GloVe > word2vec
-    - fastText - [Implementation from Facebook Research](https://github.com/facebookresearch/fastText)
-    - [word2vec](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf) - [Implementation](https://code.google.com/archive/p/word2vec/) - [Explainer Blog](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+    - Implementation from Facebook Research - [fastText](https://github.com/facebookresearch/fastText)
     - [gloVe](https://nlp.stanford.edu/pubs/glove.pdf) : Global Vectors for Word Representation - [Explainer Blog](https://blog.acolyer.org/2016/04/22/glove-global-vectors-for-word-representation/)
+    - [word2vec](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf) - [Implementation](https://code.google.com/archive/p/word2vec/) - [Explainer Blog](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
   - Sentence and Language Model Based Word Embeddings
     - ElMo : Embeddings from Language Models : [Basics](https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-features-from-text/) , [Deep contextualized word representations](https://arxiv.org/abs/1802.05365)
       - [PyTorch Implementation](https://github.com/allenai/allennlp) from [AllenAI/AllenNLP](https://allennlp.org/elmo)
@@ -64,6 +64,16 @@ Handling Text Processing |<ul> <li>Text pre-processing techniques (Familiarity w
 ## Libraries / Packages
 
 ## Services
+- [Amazon Comprehend](https://aws.amazon.com/comprehend/) - NLP and ML suite covers most common tasks like NER (Named Entity Recognition), tagging, and sentiment analysis
+- [Google Cloud Natural Language API](https://cloud.google.com/natural-language/) - Syntax Analysis, NER, Sentiment Analysis, and Content tagging in atleast 9 languages include English and Others
+- [Microsoft Cognitive Service: Text Analytics](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
+- [IBM Watson's Natural Language Understanding](https://github.com/watson-developer-cloud/natural-language-understanding-nodejs) - API and Github demo
+- [Cloudmersive](https://cloudmersive.com/nlp-api) - Unified and free NLP APIs that perform actions such as speech tagging, text rephrasing, language translation/detection, and sentence parsing
+- [ParallelDots](https://www.paralleldots.com/text-analysis-apis) - High level Text Analysis API Service ranging from Sentiment Analysis to Intent Analysis
+- [Wit.ai](https://github.com/wit-ai/wit) - Natural Language Interface for apps and devices
+- [Rosette](https://www.rosette.com/) - An adaptable platform for text analytics and discovery
+- [TextRazor](https://www.textrazor.com/) - Extract meaning from your text
+- [Textalytic](https://www.textalytic.com/) - Natural Language Processing in the Browser with sentiment analysis, named entity extraction, POS tagging, word frequencies, topic modeling, word clouds, and more
 
 ## Datasets
 
