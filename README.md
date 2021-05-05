@@ -78,6 +78,15 @@ Handling Text Processing |<ul> <li>Text pre-processing techniques (Familiarity w
   - [dfrtopics](https://github.com/agoldst/dfrtopics) - R package for exploring topic models of text.
   - [sentiment_classifier](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment Classification using Word Sense Disambiguation and WordNet Reader
 - Python NLP Libraries
+  - [NLTK](https://www.nltk.org/) - Natural Language ToolKit
+  - [TextBlob](https://textblob.readthedocs.io/en/dev/) - Simplified text processing. Providing a consistent API for diving into common natural language processing (NLP) tasks. Stands on the giant shoulders of Natural Language Toolkit (NLTK) and Pattern, and plays nicely with both
+  - [spaCy](https://github.com/explosion/spaCy) - Industrial strength NLP with Python and Cython
+  - [gensim](https://radimrehurek.com/gensim/index.html) - Python library to conduct unsupervised semantic modelling from plain text
+  - [scattertext](https://github.com/JasonKessler/scattertext) - Python library to produce d3 visualizations of how language differs between corpora
+  - [GluonNLP](https://github.com/dmlc/gluon-nlp) - A deep learning toolkit for NLP, built on MXNet/Gluon, for research prototyping and industrial deployment of state-of-the-art models on a wide range of NLP tasks.
+  - [AllenNLP](https://github.com/allenai/allennlp) - An NLP research library, built on PyTorch, for developing state-of-the-art deep learning models on a wide variety of linguistic tasks.
+  - [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - NLP research toolkit designed to support rapid prototyping with better data loaders, word vector loaders, neural network layer representations, common NLP metrics such as BLEU
+  - [Rosetta](https://github.com/columbia-applied-data-science/rosetta) - Text processing tools and wrappers (e.g. Vowpal Wabbit)
 
 [Back to Contents](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#contents)
 
