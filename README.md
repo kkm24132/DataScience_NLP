@@ -111,12 +111,19 @@ Handling Text Processing |<ul> <li>Text pre-processing techniques (Familiarity w
 [Back to Contents](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#contents)
 
 ## Video and Online Content References
+- [Stanford Deep Learning for Natural Language Processing (cs224-n)](https://web.stanford.edu/class/cs224n/) - Richard Socher and Christopher Manning's Stanford Course
+- [Deep Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/lectures) - Lectures series from Oxford
+- [Neural Networks for NLP - Carnegie Mellon](http://phontron.com/class/nn4nlp2017/) Language Technology Institute there
+- [fast.ai Code-First Intro to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/) - This covers a blend of traditional NLP topics (including regex, SVD, naive bayes, tokenization) and recent neural network approaches (including RNNs, seq2seq, GRUs, and the Transformer), as well as addressing urgent ethical issues, such as bias and disinformation. Find the Jupyter Notebooks [here](https://github.com/fastai/course-nlp)
+- [Deep NLP Course by Yandex Data School](https://github.com/yandexdataschool/nlp_course), covering important ideas from text embedding to machine translation including sequence modeling, language models and so on
+- [Machine Learning University](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw) - Accelerated Natural Language Processing - Lectures go from introduction to NLP and text processing to Recurrent Neural Networks and Transformers. Material can be found [here](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)
+
 
 [Back to Contents](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#contents)
 
 
 ```
-End of Content
+End of Contents
 ```
 
 
