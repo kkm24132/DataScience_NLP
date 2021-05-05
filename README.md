@@ -46,9 +46,15 @@ Handling Text Processing |<ul> <li>Text pre-processing techniques (Familiarity w
 - Text Embeddings
   - Word Embeddings
     - Thumb Rule: fastText >> GloVe > word2vec
+    - fastText - [Implementation from Facebook Research](https://github.com/facebookresearch/fastText)
     - [word2vec](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf) - [Implementation](https://code.google.com/archive/p/word2vec/) - [Explainer Blog](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+    - [gloVe](https://nlp.stanford.edu/pubs/glove.pdf) : Global Vectors for Word Representation - [Explainer Blog](https://blog.acolyer.org/2016/04/22/glove-global-vectors-for-word-representation/)
   - Sentence and Language Model Based Word Embeddings
 - Question Answering and Knowledge Extraction
+  - [DrQA](https://github.com/facebookresearch/DrQA) - Open Domain Question Answering work by Facebook Research on Wikipedia data
+  - [Document-QA](https://github.com/allenai/document-qa) - Simple and Effective Multi-Paragraph Reading Comprehension by AllenAI
+  - [Privee](https://www.sebastianzimmeck.de/zimmeckAndBellovin2014Privee.pdf) - An Architecture for Automatically Analyzing Web Privacy Policies
+  - [Template-Based Information Extraction without the Templates](https://www.usna.edu/Users/cs/nchamber/pubs/acl2011-chambers-templates.pdf)
 
 ## Libraries / Packages
 
