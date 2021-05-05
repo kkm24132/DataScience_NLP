@@ -32,10 +32,14 @@
 - [Stanford NLP](https://nlp.stanford.edu/teaching/)
 - [BERT, ELMo and GPT2](http://ai.stanford.edu/blog/contextual/) How contextual are Contexualized Word Representations? - from Stanford AI Lab
 - [The Illustrated BERT, ELMo and others](http://jalammar.github.io/illustrated-bert/) NLP and transfer learning context
+- [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://openreview.net/forum?id=H1eA7AEtvS), Related [Code](https://github.com/google-research/ALBERT)
+- [A Mutual Information Maximization Perspective of Language Representation Learning](https://openreview.net/forum?id=Syx79eBKwr)
+- [DeFINE: Deep Factorized Input Token Embeddings for Neural Sequence Modeling](https://openreview.net/forum?id=rJeXS04FPH)
+
 
 [Back to Contents](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#contents)
 
-## Intro and Learning Content
+## Intro and Learning Basics
 
 Area           |Description                                     |  Target Timeline |
 :--            |:--                                             |        --        |
@@ -66,6 +70,16 @@ Handling Text Processing |<ul> <li>Text pre-processing techniques (Familiarity w
 [Back to Contents](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#contents)
 
 ## Libraries / Packages
+- R NLP Libraries
+  - [text2vec](https://github.com/dselivanov/text2vec) - Fast vectorization, topic modeling, distances and GloVe word embeddings in R
+  - [wordVectors](https://github.com/bmschmidt/wordVectors) - An R package for creating and exploring word2vec and other word embedding models
+  - [RMallet](https://github.com/mimno/RMallet) - R package to interface with the Java machine learning tool MALLET
+  - [dfr-browser](https://github.com/agoldst/dfr-browser) - Creates d3 visualizations for browsing topic models of text in a web browser.
+  - [dfrtopics](https://github.com/agoldst/dfrtopics) - R package for exploring topic models of text.
+  - [sentiment_classifier](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment Classification using Word Sense Disambiguation and WordNet Reader
+- Python NLP Libraries
+
+[Back to Contents](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#contents)
 
 ## Services
 - [Amazon Comprehend](https://aws.amazon.com/comprehend/) - NLP and ML suite covers most common tasks like NER (Named Entity Recognition), tagging, and sentiment analysis
@@ -82,14 +96,14 @@ Handling Text Processing |<ul> <li>Text pre-processing techniques (Familiarity w
 [Back to Contents](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#contents)
 
 ## Datasets
+- [NLP-datasets](https://github.com/niderhoff/nlp-datasets) - Great collection of NLP datasets for use
+- [gensim-datasets](https://github.com/RaRe-Technologies/gensim-data) - Data repository for pretrained NLP models and NLP corpora
+
+[Back to Contents](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#contents)
 
 ## Video and Online Content References
 
-## Research Papers
-
-- [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://openreview.net/forum?id=H1eA7AEtvS), Related [Code](https://github.com/google-research/ALBERT)
-- [A Mutual Information Maximization Perspective of Language Representation Learning](https://openreview.net/forum?id=Syx79eBKwr)
-- [DeFINE: Deep Factorized Input Token Embeddings for Neural Sequence Modeling](https://openreview.net/forum?id=rJeXS04FPH)
+[Back to Contents](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#contents)
 
 
 ```
