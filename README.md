@@ -39,7 +39,7 @@
 
 [Back to Contents](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#contents)
 
-## Intro and Learning Basics
+## Intro and Learning Content
 
 Area           |Description                                     |  Target Timeline |
 :--            |:--                                             |        --        |
