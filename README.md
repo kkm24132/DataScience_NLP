@@ -28,6 +28,14 @@ Handling Text Processing |<ul> <li>Text pre-processing techniques (Familiarity w
 - [The Illustrated BERT, ELMo and others](http://jalammar.github.io/illustrated-bert/) NLP and transfer learning context
 
 ## Research Focus and Trends
+- Please keep referring to NLP related research papers from AAAI, NeurIPS, ACL, ICLR and similar conferences for latest research focus areas. Most of these may be captured in the arXiv.org site as well.
+- Few latest and key research papers for reading are as follows: (Please note this keeps changing and may not be dated)
+  - [WinoGrande: An Adversarial Winograd Schema Challenge at Scale](https://arxiv.org/abs/1907.10641) - the [GitHub](https://github.com/allenai/winogrande) page
+  - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) - the [GitHub](https://github.com/google-research/text-to-text-transfer-transformer) page with pretrained models along with the dataset and code
+  - [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451) - the [GitHub page with official code implementation from Google](https://github.com/google/trax/tree/master/trax/models/reformer) and the [GitHub page with PyTorch implementation of Reformer](https://github.com/lucidrains/reformer-pytorch)
+  - 
+- [NLP-Progress](https://nlpprogress.com/) tracks the progress in Natural Language Processing, including the datasets and the current state-of-the-art for the most common NLP tasks.
+- [NLP-Overview](https://nlpoverview.com/) is an up-to-date overview of deep learning techniques applied to NLP, including theory, implementations, applications, and state-of-the-art results. This is a great Deep NLP Introduction for researchers.
 
 ## Intro and Learning Content
 
