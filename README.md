@@ -4,13 +4,13 @@
 **Target Audience**: Data Science and AI Practitioners with already having fundamental, working knowledge and familiarity of Machine Learning concepts, Python/R/SQL programming background.
 
 ## Contents:
-- [Research Focus and trends](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#research-focus-and-trends)
+- [Research Focus and Trends](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#research-focus-and-trends)
 - [Intro and Learning Content](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#intro-and-learning-content)
 - [Techniques](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#techniques)
-- [Libraries / packages](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#libraries--packages)
+- [Libraries / Packages](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#libraries--packages)
 - [Services](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#services)
 - [Datasets](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#datasets)
-- [Video and Online Content references](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#video-and-online-content-references)
+- [Video and Online Content References](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#video-and-online-content-references)
 
 
 ## Research Focus and Trends
