@@ -120,9 +120,10 @@ Language Modeling & Sentiment Classification with DL, Translation with RNNs | <u
 - [fast.ai Code-First Intro to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/) - This covers a blend of traditional NLP topics (including regex, SVD, naive bayes, tokenization) and recent neural network approaches (including RNNs, seq2seq, GRUs, and the Transformer), as well as addressing urgent ethical issues, such as bias and disinformation. Find the Jupyter Notebooks [here](https://github.com/fastai/course-nlp)
 - [Deep NLP Course by Yandex Data School](https://github.com/yandexdataschool/nlp_course), covering important ideas from text embedding to machine translation including sequence modeling, language models and so on
 - [Machine Learning University](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw) - Accelerated Natural Language Processing - Lectures go from introduction to NLP and text processing to Recurrent Neural Networks and Transformers. Material can be found [here](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)
-
+- [Knowledge Graphs in Natural Language Processing @ ACL 2020](https://towardsdatascience.com/knowledge-graphs-in-natural-language-processing-acl-2020-ebb1f0a6e0b1)
 
 [Back to Contents](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#contents)
+
 
 
 ```
