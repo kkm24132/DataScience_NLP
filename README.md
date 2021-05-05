@@ -1,7 +1,8 @@
 ### NLP (Natural Language Processing)
 
-- **Objective**: This repository provides pointers and guidance for fundamentals around NLP (Natural Language Processing) from learning perspective, innovation / research areas etc. It also throws light into recommended timeline, content relating to accelerating in the journey of learning this field.
-- **Target Audience**: Professional with already having basic, working knowledge and familiarity around Machine Learning, Python/R/SQL programming background.
+**Objective**: This repository is created to capture pointers, guidance for fundamentals around NLP (Natural Language Processing) from learning perspective, innovation / research areas etc. It also throws light into recommended subject areas, content relating to accelerating in the journey of learning in this field.
+
+**Target Audience**: Data Science and AI Practitioners with already having fundamental, working knowledge and familiarity of Machine Learning concepts, Python/R/SQL programming background.
 
 
 Area           |Description                                     |  Target Timeline |
@@ -21,3 +22,6 @@ Handling Text Processing |<ul> <li>Text pre-processing techniques (Familiarity w
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://openreview.net/forum?id=H1eA7AEtvS), Related [Code](https://github.com/google-research/ALBERT)
 - [A Mutual Information Maximization Perspective of Language Representation Learning](https://openreview.net/forum?id=Syx79eBKwr)
 - [DeFINE: Deep Factorized Input Token Embeddings for Neural Sequence Modeling](https://openreview.net/forum?id=rJeXS04FPH)
+
+
+``` Disclaimer: Information represented here is based on my own experiences, learnings, readings and no way represent any firm's opinion, strategy etc or any individual's opinion or not intended for anything else other than learning and/or research/innovation in the field. ```
