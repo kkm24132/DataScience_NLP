@@ -20,3 +20,4 @@ Handling Text Processing |<ul> <li>Text pre-processing techniques (Familiarity w
 
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://openreview.net/forum?id=H1eA7AEtvS), Related [Code](https://github.com/google-research/ALBERT)
 - [A Mutual Information Maximization Perspective of Language Representation Learning](https://openreview.net/forum?id=Syx79eBKwr)
+- [DeFINE: Deep Factorized Input Token Embeddings for Neural Sequence Modeling](https://openreview.net/forum?id=rJeXS04FPH)
