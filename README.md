@@ -1,9 +1,9 @@
-## NLP (Natural Language Processing)
+# NLP (Natural Language Processing)
 **Objective**: This repository is created to capture pointers, guidance for fundamentals around NLP (Natural Language Processing) from learning perspective, innovation / research areas etc. It also throws light into recommended subject areas, content relating to accelerating in the journey of learning in this field.
 
 **Target Audience**: Data Science and AI Practitioners with already having fundamental, working knowledge and familiarity of Machine Learning concepts, Python/R/SQL programming background.
 
-#### Contents:
+## Contents:
 - [Research Focus and trends](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#research-focus-and-trends)
 - [Intro and Learning Content](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#intro-and-learning-content)
 - [Techniques](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#techniques)
