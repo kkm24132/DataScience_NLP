@@ -22,6 +22,7 @@
   - [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150) - the [GitHub page](https://github.com/allenai/longformer)
 - [NLP-Progress](https://nlpprogress.com/) tracks the progress in Natural Language Processing, including the datasets and the current state-of-the-art for the most common NLP tasks.
 - [NLP-Overview](https://nlpoverview.com/) is an up-to-date overview of deep learning techniques applied to NLP, including theory, implementations, applications, and state-of-the-art results. This is a great Deep NLP Introduction for researchers.
+- [Detect Radiology related entities with Spark NLP](https://www.johnsnowlabs.com/detect-radiology-related-entities-with-spark-nlp/)
 - [NLP's ImageNet moment](https://thegradient.pub/nlp-imagenet/)
 - [ACL 2018 Highlights: Understanding Representations and Evaluation in More Challenging Settings](https://ruder.io/acl-2018-highlights/)
 - [Four deep learning trends from ACL 2017 - Part 1](https://www.abigailsee.com/2017/08/30/four-deep-learning-trends-from-acl-2017-part-1.html) - Linguistic Structure and Word Embeddings
@@ -42,6 +43,12 @@ Handling Text Processing |<ul> <li>Text pre-processing techniques (Familiarity w
 
 
 ## Techniques
+- Text Embeddings
+  - Word Embeddings
+    - Thumb Rule: fastText >> GloVe > word2vec
+    - [word2vec](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf) - [Implementation](https://code.google.com/archive/p/word2vec/) - [Explainer Blog](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+  - Sentence and Language Model Based Word Embeddings
+- Question Answering and Knowledge Extraction
 
 ## Libraries / Packages
 
