@@ -3,7 +3,7 @@
 
 **Target Audience**: Data Science and AI Practitioners with already having fundamental, working knowledge and familiarity of Machine Learning concepts, Python/R/SQL programming background.
 
-**Contents:**
+#### Contents:
 - [Research Focus and trends](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#research-focus-and-trends)
 - [Intro and Learning Content](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#intro-and-learning-content)
 - [Techniques](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#techniques)
