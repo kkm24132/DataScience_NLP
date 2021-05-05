@@ -49,8 +49,7 @@ Handling Text Processing |<ul> <li>Text pre-processing techniques (Familiarity w
 
 
 
-``` 
-Disclaimer: Information represented here is based on my own experiences, learnings, readings and no way represent any firm's opinion, strategy etc or any individual's opinion or not intended for anything else other than learning and/or research/innovation in the field. Content here and on this repository is non-exhaustive and continuous improvement / continuous learning focus is needed to learn more. 
 
+**Disclaimer:** Information represented here is based on my own experiences, learnings, readings and no way represent any firm's opinion, strategy etc or any individual's opinion or not intended for anything else other than learning and/or research/innovation in the field. Content here and on this repository is non-exhaustive and continuous improvement / continuous learning focus is needed to learn more. 
 Recommendation - Keep Learning and keep improving.
-```
+
