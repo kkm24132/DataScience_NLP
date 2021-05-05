@@ -3,7 +3,7 @@
 
 **Target Audience**: Data Science and AI Practitioners with already having fundamental, working knowledge and familiarity of Machine Learning concepts, Python/R/SQL programming background.
 
-**Areas of Focus:**
+**Contents:**
 - [Research Focus and trends](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#research-focus-and-trends)
 - [Intro and Learning Content](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#intro-and-learning-content)
 - [Techniques](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#techniques)
@@ -50,6 +50,11 @@ Handling Text Processing |<ul> <li>Text pre-processing techniques (Familiarity w
     - [word2vec](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf) - [Implementation](https://code.google.com/archive/p/word2vec/) - [Explainer Blog](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
     - [gloVe](https://nlp.stanford.edu/pubs/glove.pdf) : Global Vectors for Word Representation - [Explainer Blog](https://blog.acolyer.org/2016/04/22/glove-global-vectors-for-word-representation/)
   - Sentence and Language Model Based Word Embeddings
+    - ElMo : Embeddings from Language Models : [Basics](https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-features-from-text/) , [Deep contextualized word representations](https://arxiv.org/abs/1802.05365)
+      - [PyTorch Implementation](https://github.com/allenai/allennlp) from [AllenAI/AllenNLP](https://allennlp.org/elmo)
+      - [TF Implementation](https://github.com/allenai/bilm-tf) from AllenAI
+    - ULMFiT : Universal Language Model Fine-tuning for Text Classification by Jeremy Howard and Sebastian Ruder - [Paper Ref](https://arxiv.org/abs/1801.06146)
+    - InferSent - Supervised Learning of Universal Sentence Representations from Natural Language Inference Data by facebook - [Paper Ref](https://arxiv.org/abs/1705.02364)
 - Question Answering and Knowledge Extraction
   - [DrQA](https://github.com/facebookresearch/DrQA) - Open Domain Question Answering work by Facebook Research on Wikipedia data
   - [Document-QA](https://github.com/allenai/document-qa) - Simple and Effective Multi-Paragraph Reading Comprehension by AllenAI
