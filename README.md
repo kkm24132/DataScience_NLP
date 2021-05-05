@@ -1,8 +1,18 @@
-### NLP (Natural Language Processing)
-
+## NLP (Natural Language Processing)
 **Objective**: This repository is created to capture pointers, guidance for fundamentals around NLP (Natural Language Processing) from learning perspective, innovation / research areas etc. It also throws light into recommended subject areas, content relating to accelerating in the journey of learning in this field.
 
 **Target Audience**: Data Science and AI Practitioners with already having fundamental, working knowledge and familiarity of Machine Learning concepts, Python/R/SQL programming background.
+
+Areas of Focus:
+- Research Focus and trends
+- Intro and Learning Content
+- Techniques
+- Libraries / packages
+- Services
+- Datasets
+- Video and Online Content references
+
+
 
 
 Area           |Description                                     |  Target Timeline |
@@ -17,6 +27,20 @@ Handling Text Processing |<ul> <li>Text pre-processing techniques (Familiarity w
 - [BERT, ELMo and GPT2](http://ai.stanford.edu/blog/contextual/) How contextual are Contexualized Word Representations? - from Stanford AI Lab
 - [The Illustrated BERT, ELMo and others](http://jalammar.github.io/illustrated-bert/) NLP and transfer learning context
 
+## Research Focus and Trends
+
+## Intro and Learning Content
+
+## Techniques
+
+## Libraries / Packages
+
+## Services
+
+## Datasets
+
+## Video and Online Content References
+
 ## Research Papers
 
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://openreview.net/forum?id=H1eA7AEtvS), Related [Code](https://github.com/google-research/ALBERT)
@@ -24,4 +48,9 @@ Handling Text Processing |<ul> <li>Text pre-processing techniques (Familiarity w
 - [DeFINE: Deep Factorized Input Token Embeddings for Neural Sequence Modeling](https://openreview.net/forum?id=rJeXS04FPH)
 
 
-``` Disclaimer: Information represented here is based on my own experiences, learnings, readings and no way represent any firm's opinion, strategy etc or any individual's opinion or not intended for anything else other than learning and/or research/innovation in the field. ```
+
+``` 
+Disclaimer: Information represented here is based on my own experiences, learnings, readings and no way represent any firm's opinion, strategy etc or any individual's opinion or not intended for anything else other than learning and/or research/innovation in the field. Content here and on this repository is non-exhaustive and continuous improvement / continuous learning focus is needed to learn more. 
+
+Recommendation - Keep Learning and keep improving.
+```
