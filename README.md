@@ -15,3 +15,8 @@ Handling Text Processing |<ul> <li>Text pre-processing techniques (Familiarity w
 - [Stanford NLP](https://nlp.stanford.edu/teaching/)
 - [BERT, ELMo and GPT2](http://ai.stanford.edu/blog/contextual/) How contextual are Contexualized Word Representations? - from Stanford AI Lab
 - [The Illustrated BERT, ELMo and others](http://jalammar.github.io/illustrated-bert/) NLP and transfer learning context
+
+## Research Papers
+
+- [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://openreview.net/forum?id=H1eA7AEtvS), Related [Code](https://github.com/google-research/ALBERT)
+- 
