@@ -39,6 +39,23 @@
 
 [Back to Contents](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#contents)
 
+## Research Focus Sub-Segments
+- Lexical Semantics, Semantic Processing
+- POS Tagging
+- Discourse
+- Paraphrasing / Entailment / Generation
+- Machine Translation
+- Information Retrieval
+- Text Mining
+- Information Extraction
+- Question Answering
+- Dialog Systems
+- Spoken Language Processing
+- Speech Recognition & Synthesis
+- Computational Linguistics and NLP
+- Chunking / Shallow Parsing
+- Parsing / Grammatical Formalisms etc.
+
 ## Intro and Learning Content
 
 Area           |Description                                     |Target Timeline |
