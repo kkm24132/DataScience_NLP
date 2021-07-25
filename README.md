@@ -56,7 +56,7 @@
 - Chunking / Shallow Parsing
 - Parsing / Grammatical Formalisms etc.
 
-## Intro and Learning Content
+## Introduction and Learning Content
 
 Area           |Description                                     |Target Timeline |
 :--            |:--                                             |      :--:      |
