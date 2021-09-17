@@ -139,9 +139,10 @@ Reading and handling Text from Images | <ul> <li>OpenCV - [Ref](https://opencv.o
 - [Deep NLP Course by Yandex Data School](https://github.com/yandexdataschool/nlp_course), covering important ideas from text embedding to machine translation including sequence modeling, language models and so on
 - [Machine Learning University](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw) - Accelerated Natural Language Processing - Lectures go from introduction to NLP and text processing to Recurrent Neural Networks and Transformers. Material can be found [here](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)
 - [Knowledge Graphs in Natural Language Processing @ ACL 2020](https://towardsdatascience.com/knowledge-graphs-in-natural-language-processing-acl-2020-ebb1f0a6e0b1)
+- [Practical Notebooks around 330+ leveraging NLP techniques](https://notebooks.quantumstat.com/)  
 - [NLP at Scale - MLOps aspects for customer success](https://docs.google.com/presentation/d/1tAeZXGSJDxhLrZcH_55h7mLH-bCWhZmBLdq-ybk9gb8/edit#slide=id.gc5f743980a_0_33)
 - [MLM with BERT](https://towardsdatascience.com/masked-language-modelling-with-bert-7d49793e5d2c)
-
+  
 [Back to Contents](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#contents)
 
 
