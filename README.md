@@ -125,6 +125,10 @@ Reading and handling Text from Images | <ul> <li>OpenCV - [Ref](https://opencv.o
 
 [Back to Contents](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#contents)
 
+## Fundamentals and Basics
+- Stopwords: Stop words are words which occur frequently in a text corpus. e.g a, an, the, in. Frequently occurring words are removed from the corpus for the objective of text-normalization. We can import ```from nltk.corpus import stopwords``` to leverage this facility
+- Stemming: It is reduction of inflection from words. Words with same origin will get reduced to a form which may or may not be a word. NLTK has different stemmers which implement different methodologies.
+  
 ## Datasets
 - [NLP-datasets](https://github.com/niderhoff/nlp-datasets) - Great collection of NLP datasets for use
 - [gensim-datasets](https://github.com/RaRe-Technologies/gensim-data) - Data repository for pretrained NLP models and NLP corpora
