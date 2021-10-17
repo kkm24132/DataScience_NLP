@@ -149,7 +149,8 @@ Reading and handling Text from Images | <ul> <li>OpenCV - [Ref](https://opencv.o
   
 [Back to Contents](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#contents)
 
-
+## Course References
+- [NLP using Huggingface](https://huggingface.co/course/chapter1)
 
 ```
 End of Contents
