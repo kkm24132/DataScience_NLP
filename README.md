@@ -11,6 +11,7 @@
 - [Services](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#services)
 - [Datasets](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#datasets)
 - [Video and Online Content References](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#video-and-online-content-references)
+- [CourseReferences](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#coursereferences)
 
 
 ## Research Focus and Trends
@@ -154,6 +155,8 @@ Reading and handling Text from Images | <ul> <li>OpenCV - [Ref](https://opencv.o
 - [NLP using Huggingface](https://huggingface.co/course/chapter1)
 - [Georgia Tech course ref](https://github.com/jacobeisenstein/gt-nlp-class)
 
+[Back to Contents](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#contents) 
+  
 ```
 End of Contents
 ```
