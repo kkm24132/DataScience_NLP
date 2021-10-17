@@ -154,6 +154,7 @@ Reading and handling Text from Images | <ul> <li>OpenCV - [Ref](https://opencv.o
 - [Stanford course CS224n for NLP using DL](http://web.stanford.edu/class/cs224n/)
 - [NLP using Huggingface](https://huggingface.co/course/chapter1)
 - [Georgia Tech course ref](https://github.com/jacobeisenstein/gt-nlp-class)
+- [NLP in Tensorflow](https://www.coursera.org/learn/natural-language-processing-tensorflow) from Coursera
 
 [Back to Contents](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#contents) 
   
