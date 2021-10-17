@@ -149,8 +149,10 @@ Reading and handling Text from Images | <ul> <li>OpenCV - [Ref](https://opencv.o
   
 [Back to Contents](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#contents)
 
-## Course References
+## CourseReferences
+- [Stanford course CS224n for NLP using DL](http://web.stanford.edu/class/cs224n/)
 - [NLP using Huggingface](https://huggingface.co/course/chapter1)
+- [Georgia Tech course ref](https://github.com/jacobeisenstein/gt-nlp-class)
 
 ```
 End of Contents
