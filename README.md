@@ -19,6 +19,7 @@
   - Generative AI from Text-to-Image generation standpoint:
     - Hierarchical Text-Conditional Image Generation with CLIP Latents [DALL-E 2](https://openai.com/dall-e-2/)
     - High-Resolution Image Synthesis with Latent Diffusion Models [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+    - LAION-5B: An Open Large-Scale [Dataset](https://laion.ai/blog/laion-5b/) for Training Next Generation Image-Text Models - [CLIP](https://openai.com/blog/clip/) is used 
 - Please keep referring to NLP related research papers from AAAI, NeurIPS, ACL, ICLR and similar conferences for latest research focus areas. Most of these may be captured in the arXiv.org site as well.
 - Few latest and key research papers for reading are as follows: (Please note this keeps changing and may not be dated)
   - [WinoGrande: An Adversarial Winograd Schema Challenge at Scale](https://arxiv.org/abs/1907.10641) - the [GitHub](https://github.com/allenai/winogrande) page
