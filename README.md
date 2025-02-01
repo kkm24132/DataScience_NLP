@@ -13,7 +13,6 @@
 - [Video and Online Content References](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#video-and-online-content-references)
 - [CourseReferences](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#coursereferences)
 
-
 ## Research Focus and Trends
 - Updates in 2022-2023:
   - Generative AI from Text-to-Image generation standpoint:
