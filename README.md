@@ -41,7 +41,6 @@
 - [A Mutual Information Maximization Perspective of Language Representation Learning](https://openreview.net/forum?id=Syx79eBKwr)
 - [DeFINE: Deep Factorized Input Token Embeddings for Neural Sequence Modeling](https://openreview.net/forum?id=rJeXS04FPH)
 
-
 [Back to Contents](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#contents)
 
 ## Research Focus Sub-Segments
