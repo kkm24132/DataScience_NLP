@@ -60,6 +60,7 @@
 - Chunking / Shallow Parsing
 - Parsing / Grammatical Formalisms etc.
 
+
 ## Introduction and Learning Content
 
 Area           |Description                                     |Target Timeline |
@@ -74,7 +75,6 @@ Reading and handling Text from Images | <ul> <li>OpenCV - [Ref](https://opencv.o
 [Back to Contents](https://github.com/kkm24132/DataScience_NLP/blob/main/README.md#contents)
 
 ## Techniques
-
 - Text Embeddings
   - Word Embeddings
     - Thumb Rule: fastText >> GloVe > word2vec
